@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ultrareactproject/static/css/main.5aec0243.chunk.css",
+    "main.js": "/ultrareactproject/static/js/main.6cfe534b.chunk.js",
+    "main.js.map": "/ultrareactproject/static/js/main.6cfe534b.chunk.js.map",
+    "runtime-main.js": "/ultrareactproject/static/js/runtime-main.405ae8bd.js",
+    "runtime-main.js.map": "/ultrareactproject/static/js/runtime-main.405ae8bd.js.map",
+    "static/js/2.0f4ff630.chunk.js": "/ultrareactproject/static/js/2.0f4ff630.chunk.js",
+    "static/js/2.0f4ff630.chunk.js.map": "/ultrareactproject/static/js/2.0f4ff630.chunk.js.map",
+    "static/js/3.3d2d1919.chunk.js": "/ultrareactproject/static/js/3.3d2d1919.chunk.js",
+    "static/js/3.3d2d1919.chunk.js.map": "/ultrareactproject/static/js/3.3d2d1919.chunk.js.map",
+    "index.html": "/ultrareactproject/index.html",
+    "static/css/main.5aec0243.chunk.css.map": "/ultrareactproject/static/css/main.5aec0243.chunk.css.map",
+    "static/js/2.0f4ff630.chunk.js.LICENSE.txt": "/ultrareactproject/static/js/2.0f4ff630.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.405ae8bd.js",
+    "static/js/2.0f4ff630.chunk.js",
+    "static/css/main.5aec0243.chunk.css",
+    "static/js/main.6cfe534b.chunk.js"
+  ]
+}
